@@ -10,6 +10,7 @@
 <a href="https://twitter.com/chornthoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chornthoen" height="30" width="40" /></a>
 <a href="https://fb.com/thoenchorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thoenchorn" height="30" width="40" /></a>
 <a href="https://instagram.com/chornthoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chornthoen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chornthoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chornthoen" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chornthoen&show_icons=true&locale=en" alt="chornthoen" /></p>
